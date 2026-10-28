@@ -1,6 +1,6 @@
 ## 👏 Hi, I'm Jonathan Rufus
 ##  About Me
-My name is Jonathan Rufus, I am majoring in Information System at UTSA. It is currently my first year here at UTSA
+My name is Jonathan Rufus, I am majoring in Information System at UTSA. It is currently my first year at UTSA.
 ## ⚒️ Skills
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?logo=powershell&logoColor=white)
