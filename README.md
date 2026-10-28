@@ -1,4 +1,4 @@
-## 👏 Hi, I'm *your name here*
+## 👏 Hi, I'm Jonathan Rufus
 ##  About Me
 My name is Jonathan Rufus, I am majoring in Information System at UTSA. It is currently my first year here at UTSA
 ## ⚒️ Skills
